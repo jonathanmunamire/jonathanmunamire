@@ -8,6 +8,8 @@
 
 - 🌱 I’m currently learning **Javascript**
 
+- 🔭 I’m currently working on [Review Check Project](https://jonathanmunamire.github.io/Reviews-Check/dist/)
+
 - 👨‍💻 All of my projects are available at [https://jonathanmunamire.github.io/Portfolio/](https://jonathanmunamire.github.io/Portfolio/)
 
 - 📫 How to reach me **jonathanmunamire@gmail.com**
