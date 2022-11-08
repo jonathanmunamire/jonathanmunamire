@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jonathanmunamire.github.io/Portfolio/](https://jonathanmunamire.github.io/Portfolio/)
 
-- 📫 How to reach me **jonathanmunamire@gmail.com**
+- 📫 You can reach me on **jonathanmunamire@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
