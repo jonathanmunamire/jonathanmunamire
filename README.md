@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jonathan MUNAMIRE</h1>
+<h1 align="center">Hello 👋, I'm Jonathan MUNAMIRE</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 
