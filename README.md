@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Jonathan MUNAMIRE</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A Passionate FrontEnd Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathanmunamire&label=Profile%20views&color=0e75b6&style=flat" alt="jonathanmunamire" /> </p>
