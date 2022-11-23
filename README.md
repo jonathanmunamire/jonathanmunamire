@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Jonathan MUNAMIRE</h1>
 <h3 align="center">FrontEnd Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
+<img align="right" alt="Coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathanmunamire&label=Profile%20views&color=0e75b6&style=flat" alt="jonathanmunamire" /> </p>
 
