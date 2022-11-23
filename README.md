@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 🔭 I’m currently working on [Movies Project](https://github.com/jonathanmunamire/Countries)
+- 🔭 I’m currently working on [Movies Project](https://github.com/jonathanmunamire/Movies-Api)
 
 - 👨‍💻 All of my projects are available at [https://jonathanmunamire.github.io/Portfolio/](https://jonathanmunamire.github.io/Portfolio/)
 
