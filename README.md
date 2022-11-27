@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Movies Project](https://github.com/jonathanmunamire/Movies-Api)
 
-- 👨‍💻 All of my projects are available at [https://jonathanmunamire.github.io/Portfolio/](https://jonathanmunamire.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available on [My Portfolio](https://jonathanmunamire.github.io/Portfolio/)
 
 - 📫 You can reach me on **jonathanmunamire@gmail.com**
 
