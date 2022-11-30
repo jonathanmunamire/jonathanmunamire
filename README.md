@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 🔭 I’m currently working on [Math Magician](https://github.com/jonathanmunamire/Movies-Api)
+- 🔭 I’m currently working on [Math Magician](https://github.com/jonathanmunamire/Math-Magician)
 
 - 👨‍💻 All of my projects are available on [My Portfolio](https://jonathanmunamire.github.io/Portfolio/)
 
