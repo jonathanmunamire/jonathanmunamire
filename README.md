@@ -1,7 +1,6 @@
 <h1 align="center">Hello 👋 I am Jonathan MUNAMIRE</h1>
 <h3 align="center">FrontEnd Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
-[![wakatime](https://wakatime.com/badge/user/3fec9939-846d-481f-8d92-4c8ad422ac77.svg)](https://wakatime.com/@3fec9939-846d-481f-8d92-4c8ad422ac77)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathanmunamire&label=Profile%20views&color=0e75b6&style=flat" alt="jonathanmunamire" /> </p>
 
