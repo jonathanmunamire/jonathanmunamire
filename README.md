@@ -50,11 +50,11 @@
 
 <img align="left" alt="Coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanmunamire&show_icons=true&locale=en&layout=compact" alt="jonathanmunamire" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanmunamire&show_icons=true&locale=en&layout=compact" alt="jonathanmunamire" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathanmunamire&show_icons=true&locale=en" alt="jonathanmunamire" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jonathanmunamire&show_icons=true&locale=en" alt="jonathanmunamire" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanmunamire&" alt="jonathanmunamire" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonathanmunamire" alt="jonathanmunamire" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonathanmunamire" alt="jonathanmunamire" /></a> </p>
 
