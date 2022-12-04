@@ -48,7 +48,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/amanimunamire"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amanimunamire" /></a></p><br><br>
 
-<img align="left" alt="Coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
+<img align="center" alt="Coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanmunamire&show_icons=true&locale=en&layout=compact" alt="jonathanmunamire" /></p>
 
