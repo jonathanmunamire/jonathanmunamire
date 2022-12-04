@@ -37,7 +37,9 @@
    &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/52f231f6-6e05-4d3b-9dc2-1ab2a6e79f0c#gs.39dv5d" target="blank"><img src="https://templates.images.credential.net/15959755104909798720520579501098.png" width="80"></a> 
 </p>
 
-
+<br/>
+<br/>
+<br/>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanmunamire&show_icons=true&locale=en&layout=compact" alt="jonathanmunamire" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathanmunamire&show_icons=true&locale=en" alt="jonathanmunamire" /></p>
