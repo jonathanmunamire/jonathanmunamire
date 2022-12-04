@@ -14,10 +14,7 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-
-
-
-
+<br />
 <h3 align="left">Connect with me:</h3>
 <p align="right">
 <a href="https://twitter.com/amanimunamire" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amanimunamire" height="30" width="40" /></a>
