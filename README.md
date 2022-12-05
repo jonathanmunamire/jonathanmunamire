@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathanmunamire&label=Profile%20views&color=0e75b6&style=flat" alt="jonathanmunamire" /> </p>
 
-<p align="left"> <a href="https://twitter.com/amanimunamire" target="blank"><img src="https://img.shields.io/twitter/follow/amanimunamire?logo=twitter&style=for-the-badge" alt="amanimunamire" /></a> </p>
 
 - 🔭 I’m currently working on [Math Magician](https://github.com/jonathanmunamire/Math-Magician)
 
