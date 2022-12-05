@@ -36,6 +36,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=jonathanmunamire&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jonathanmunamire&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmunamire&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+  <img align="right" alt="Coding" width="300" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jonathanmunamire&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
@@ -57,7 +58,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/amanimunamire"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amanimunamire" /></a></p><br><br>
 
-<img align="right" alt="Coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanmunamire&show_icons=true&locale=en&layout=compact" alt="jonathanmunamire" /></p>
 
