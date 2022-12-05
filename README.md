@@ -52,19 +52,3 @@
 
 
 ---
-
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/amanimunamire"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amanimunamire" /></a></p><br><br>
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanmunamire&show_icons=true&locale=en&layout=compact" alt="jonathanmunamire" /></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jonathanmunamire&show_icons=true&locale=en" alt="jonathanmunamire" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanmunamire&" alt="jonathanmunamire" /></p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonathanmunamire" alt="jonathanmunamire" /></a> </p>
-
