@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Redux**
 
-- 👨‍💻 All my projects are available at [https://jonathanmunamire.github.io/Portfolio/](https://jonathanmunamire.github.io/Portfolio/)
+- 👨‍💻 All my projects are available on [My Portfolio](https://jonathanmunamire.github.io/Portfolio/)
 
 - 💬 Ask me about **JavaScript**
 
