@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [BookStore](https://github.com/jonathanmunamire/Bookstore)
 
-- 🌱 I’m currently learning **React & Redux**
+- 🌱 I’m currently learning **Ruby on Rails**
 
 - 👯 I’m looking to collaborate on [Countries Website](https://github.com/jonathanmunamire/Countries)
 
