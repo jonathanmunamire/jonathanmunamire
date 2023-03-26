@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on [Countries Website](https://github.com/jonathanmunamire/Countries)
 
-- 🤝 I’m looking for help with **Redux**
+- 🤝 I’m looking for help with **Ruby**
 
 - 👨‍💻 All my projects are available on [My Portfolio](https://jonathanmunamire.github.io/Portfolio/)
 
