@@ -16,7 +16,7 @@
 
 - 👨‍💻 All my projects are available on [My Portfolio](https://jonathanmunamire.github.io/Portfolio/)
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **React and Rails**
 
 - 📫 How to reach me **jonathanmunamire@gmail.com**
 
