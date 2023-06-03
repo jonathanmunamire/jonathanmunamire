@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Ruby on Rails**
 
-- 👨‍💻 All my projects are available on [My Portfolio](https://jonathanmunamire.github.io/Portfolio/)
+- 👨‍💻 All my projects are available on [My Portfolio](https://jonathanmunamire.netlify.app/)
 
 - 💬 Ask me about **React and Rails**
 
