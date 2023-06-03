@@ -16,7 +16,7 @@
 
 - 👨‍💻 All my projects are available on [My Portfolio](https://jonathanmunamire.netlify.app/)
 
-- 💬 Ask me about **React and Rails**
+- 💬 Ask me about **React and Redux**
 
 - 📫 How to reach me **jonathanmunamire@gmail.com**
 
