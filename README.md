@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Ruby on Rails**
 
-- 👯 I’m looking to collaborate on [Countries Website](https://github.com/jonathanmunamire/Countries)
+- 👯 I’m looking to collaborate on [Countries API Website](https://github.com/jonathanmunamire/Countries)
 
 - 🤝 I’m looking for help with **Ruby on Rails**
 
